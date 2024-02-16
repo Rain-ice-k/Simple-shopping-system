@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Smartphone",
+        "price": 1999.99,
+        "type": "Electronics",
+        "productionDate": "2022-01-01",
+        "expiryDate": "2025-01-01",
+        "isBluetoothEnabled": true
+    },
+    {
+        "name": "Refrigerator",
+        "price": 2300.99,
+        "type": "HomeAppliance",
+        "productionDate": "2021-06-15",
+        "expiryDate": "2026-06-15",
+        "isBluetoothEnabled": false
+    },
+    {
+        "name": "Shampoo",
+        "price": 15.99,
+        "type": "DailyGoods",
+        "productionDate": "2022-03-01",
+        "expiryDate": "2023-03-01",
+        "isBluetoothEnabled": false
+    }
+]
